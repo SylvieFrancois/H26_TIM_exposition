@@ -20,4 +20,4 @@ lien web (et/ou un vidéo) de l'exemple du projet ou exposition qui vous a inspi
 
 Référez-vous à l'exemple qui contient aussi les liens pour l'utilisation du language markdown.
 
-## 5) Copier l'adresse de votre page Portrait et copier la dans le lien du Devoir Teams correspondant pour la remise avant le prochain cours.
+## 5) Copier l'adresse de votre page Portrait et coller la dans le lien du Devoir Teams correspondant pour la remise avant le prochain cours.
