@@ -23,7 +23,7 @@ Capture d'écran du site web https://vahmire.wixsite.com/home/desbravar, consult
 
 
 
-## >💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
+###💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
 **EXEMPLE AJOUT DE PHOTO**
 Vous devez vous assurer qu'il y a une ligne de libre avant et après votre ligne de commande.
