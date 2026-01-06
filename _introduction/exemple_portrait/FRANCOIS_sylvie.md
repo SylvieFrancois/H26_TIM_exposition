@@ -20,6 +20,7 @@ en cliquant sur l'image:
 
 Capture d'écran du site web https://vahmire.wixsite.com/home/desbravar, consulté le 21 janvier 2024.
 
+
 >💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
 **EXEMPLE AJOUT DE PHOTO**
