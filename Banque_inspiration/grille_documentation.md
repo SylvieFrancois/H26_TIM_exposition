@@ -28,7 +28,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
 - [ ] Intégrer les informations demandées dans la fiche créée
 - [ ] Faire des recherches complémentaires pour enrichir l'information (ex : site de l'exposition, site web de l'artiste, de la firme recherche sur les composantes...)
 - [ ] Élaborer des justifications lorsque nécessaire (le *pourquoi*)
-- [ ] Insérer les sources de vos informations et les crédits photos lorsque requis
+- [ ] Insérer les sources de vos informations et les crédits photos
 - [ ] Poser des questions à la professeure !
 
 ## INFORMATIONS PRÉSENTÉES
