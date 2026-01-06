@@ -23,7 +23,7 @@ Capture d'écran du site web https://vahmire.wixsite.com/home/desbravar, consult
 
 
 
-### 💡 **Astuce**
+### 💡 **Astuces**
 N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
 **EXEMPLE AJOUT DE PHOTO**
