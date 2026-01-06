@@ -19,7 +19,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
   
 
 ## MÉTHODE
-- [ ] Compiler les fichiers et notes à la suite de chacune des visites d'exposition
+- [ ] Compiler les photos, croquis et notes à la suite de chacune des visites d'exposition
 - [ ] Sélectionner les photos utiles (voir la grille plus bas), télécharger les sur votre bureau et renommer les fichiers par un nommage conforme et par l'utilisation de mots clés clairs et concis (avant l'ajout des fichiers dans votre *repository*)
 - [ ] Redimensionner les fichiers des photographies (avant l'ajout des fichiers dans votre *repository*)
 - [ ] Dans votre *repository*, pour **chacune** des expositions visitées, créer un **dossier** spécifique : **LIEU** (remplacer LIEU par le nom du Musée ou Événement), puis l'arborescence de ses fichiers et dossiers (exemple: medias, croquis) chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
