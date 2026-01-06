@@ -16,8 +16,8 @@ Les médiatrices de la Fondation Phi expliquent la multiplicité de son approche
 **ou**
 en cliquant sur l'image:
 
-[![Exemple de capture d'écran](capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
-
+[![Exemple de capture d'écran](photo_SF/VAHMIRE_defaroucher_webcapture20240121.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
+Capture d'écran du site web https://vahmire.wixsite.com/home/desbravar, consulté le 21 janvier 2024.
 
 >💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
