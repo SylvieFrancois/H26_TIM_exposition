@@ -26,7 +26,7 @@ Capture d'écran du site web https://vahmire.wixsite.com/home/desbravar, consult
 **EXEMPLE AJOUT DE PHOTO**
 Vous devez vous assurer qu'il y a une ligne de libre avant et après votre ligne de commande.
 
-![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
+![photo](photo_SF/M_LEACHE_Rapido_Rem_20230820_SF.jpg)
 
 Oeuvre de Miguel Leache, *Rapido Rem*, 2022, présentée lors des **Rencontres Photo Gaspésie 2023**
 
