@@ -2,7 +2,7 @@
 
 ![photo](photo_SF/K_NNEBE_Afflux_20231201_SF.jpg)
 
->Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
+>Moi représentée par l'oeuvre de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, Montréal, décembre 2023, photo SF.
 
 
 ## **Intérêts dans le multimedia**
@@ -31,5 +31,5 @@ Vous devez vous assurer qu'il y a une ligne de libre avant et après votre ligne
 
 ![photo](photo_SF/M_LEACHE_Rapido_Rem_20230820_SF.jpg)
 
->Oeuvre de Miguel Leache, *Rapido Rem*, 2022, présentée lors des **Rencontres Photo Gaspésie 2023**
+>Oeuvre de Miguel Leache, *Rapido Rem*, 2022, présentée lors des **Rencontres Photo Gaspésie 2023**, photo SF.
 
