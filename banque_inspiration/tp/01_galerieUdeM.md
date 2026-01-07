@@ -13,6 +13,7 @@
       
 ## MÉTHODE 
 - [ ] Visiter en groupe l'exposition *Devenir partagés*,   https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php, à la Galerie de l'université de Montréal lors du cours de la semaine 2
+- [ ] Faire preuve d'ouverture de curiosité et de respect envers les oeuvres exposées.
 - [ ] Observer et expérimenter l'ensemble des oeuvres présentées, en sélectionner une pour la documenter.
 - [ ] Prendre des notes.
 - [ ] Faire des photographies.
