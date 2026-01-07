@@ -12,11 +12,11 @@
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
       
 ## MÉTHODE 
-- [ ] Visiter en groupe l'exposition *Devenir partagés*   https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php à la galerie de l'université de Montréal lors du cours de la semaine 2
-- [ ] Observer et expérimenter l'ensemble des oeuvres présentées, en sélectionner une pour la documenter
-- [ ] Prendre des notes
-- [ ] Faire des photographies
-- [ ] Faire des croquis
-- [ ] Faire de courts vidéos (si permis)
-- [ ] Poser des questions à la professeure
+- [ ] Visiter en groupe l'exposition *Devenir partagés*,   https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php, à la Galerie de l'université de Montréal lors du cours de la semaine 2
+- [ ] Observer et expérimenter l'ensemble des oeuvres présentées, en sélectionner une pour la documenter.
+- [ ] Prendre des notes.
+- [ ] Faire des photographies.
+- [ ] Faire des croquis.
+- [ ] Faire de courts vidéos (si permis).
+- [ ] Poser des questions à la professeure et/ou à la médiatrice lors de la visite.
 - [ ] **Consulter la fiche banque_inspiration/grille_documentation.md pour la méthode de documentation et de rédaction des contenus détaillées pour la fiche_oeuvre**.
