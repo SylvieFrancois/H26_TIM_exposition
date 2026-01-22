@@ -28,4 +28,5 @@
 - Organisation des données
 - Présentation de l'information
 - Communication des idées
+  
 Attention: Tout commit fait dans le dossier après l'heure de la remise sera considéré comme un retard et la pénalité s'appliquera selon la PIÉA.
