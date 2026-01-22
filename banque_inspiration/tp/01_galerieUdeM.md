@@ -1,6 +1,6 @@
 # TRAVAIL 1: VISITE ET EXPÉRIENCE D'UNE EXPOSITION ARTISTIQUE À LA GALERIE DE L'UNIVERSITÉ DE MONTRÉAL
 
-## (Répertoire GitHub) 15% (REMISE semaine 4, début du cours)
+## (Répertoire GitHub) 15% (REMISE semaine 4, début du cours via le Devoir Teams*)
 
 # LA BANQUE D'INSPIRATIONS
  Dans votre *repository*, créer le **dossier** voulu, puis l'arborescence de ses fichiers et dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
@@ -28,3 +28,4 @@
 - Organisation des données
 - Présentation de l'information
 - Communication des idées
+Attention: Tout commit fait dans le dossier après l'heure de la remise sera considéré comme un retard et la pénalité s'appliquera selon la PIÉA.
