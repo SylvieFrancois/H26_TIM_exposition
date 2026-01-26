@@ -19,5 +19,6 @@ Télécharger la photo dans votre dossier, puis l'intégrer dans votre fiche de 
 lien web (et/ou un vidéo) de l'exemple du projet ou exposition qui vous a inspiré.
 
 Référez-vous à l'exemple qui contient aussi les liens pour l'utilisation du language markdown.
+💡N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
 
 ## 5) Copier l'adresse de votre page Portrait et coller la dans le lien du Devoir Teams correspondant pour la remise avant le prochain cours.
