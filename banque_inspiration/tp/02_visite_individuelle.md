@@ -1,5 +1,5 @@
 # TRAVAIL 2 - EXPOSITION VISITE INDIVIDUELLE
-- **A) BANQUE INSPIRATION - fiche_EXPO_Oeuvre (15%) Remise semaine 7**
+- **A) BANQUE INSPIRATION - fiche_EXPO_oeuvre (15%) Remise semaine 7**
 - **B) PRÉSENTATION ORALE (15%) Remise semaines 14-15** (selon horaire déterminé à la semaine 13)
 
 ## CONSIGNES DU TRAVAIL
