@@ -1,1 +1,66 @@
+# TRAVAIL 2 - EXPOSITION VISITE INDIVIDUELLE
+- **A) BANQUE INSPIRATION - fiche_Oeuvre (15%) Remise semaine 7**
+- **B) PRÉSENTATION ORALE (15%) Remise semaines 14-15** (selon horaire déterminé à la semaine 13)
 
+## CONSIGNES DU TRAVAIL
+Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fiche_oeuvre.md)
+
+
+## OBJECTIFS POURSUIVIS
+
+- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+
+## A) BANQUE INSPIRATIONS (Expérimentation et documentation)
+- [ ] Identifier la visite que vous souhaitez effectuer (voir Liste de proposition dans Teams du cours)
+- [ ] Se renseigner sur l'exposition et le lieu choisis (et réserver un billet si nécessaire)
+- [ ] Effectuer la visite de l'exposition entre le 19 février et le 6 mars 2026 et faire l'expérience et l'observation de **l'oeuvre ou du dispositif choisi**.
+      SE RÉFÉRER À LA GRILLE DES INFORMATIONS À DOCUMENTER POUR LA BANQUE D'INSPIRATION (tp/grille_documentation.md)
+- [ ]     
+- [ ] Observer, expérimenter, interagir avec (lorsque permis) l'oeuvre ou le dispositif multimédia que vous présenterez
+- [ ] Prendre des notes
+- [ ] Faire des photographies
+- [ ] Faire des croquis
+- [ ] Faire de courts vidéos
+- [ ] Poser des questions au personnel du musée ou de la galerie si nécessaire
+- [ ] Faire des recherches complémentaires
+- [ ] Créer un **dossier LIEU (de l'exposition) puis une fiche_EXPO_oeuvre** dans votre banque d'inspirations (répertoire V11_inspirations) pour cette visite, en respectant les étapes de création de dossiers et fichiers sous GitHub (incluant créer et compléter les README.md).  
+- [ ] Compléter la fiche de présentation de l'oeuvre ou du dispositif retenu, inclure les médias pertinents. **La présentation visuelle de la fiche doit être soignée et claire puisqu'elle sera le support visuel de votre présentation orale**.
+  
+
+## B) COMMUNICATION ORALE
+Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche de présentation de cette oeuvre ou de ce dispositif et de votre expérience dans votre banque d'inspirations.
+
+### CE QUI EST ATTENDU
+**Une présentation orale de 5 à 7 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
+*Il n'y a donc pas de PowerPoint ou autre diaporama à réaliser. Votre support visuel sera votre fiche de présentation dans votre répertoire GitHub*
+
+### PLAN DE LA PRÉSENTATION
+**Vous devrez, suite à la rétroaction de la professeure de votre fiche_EXPO_Oeuvre évaluée, faire un plan de votre présentation orale (plan_oral.md) qui intérera les commentaires reçus.  Ce plan de présentation sera intégré à votre banque d'inspirations, dans le dossier de votre visite individuelle. Il respectera la structure suivante**:
+
+*Ce plan ne sera pas partagé à vos collègues. Il vous servira d'appui personnel lors de la présentation puisque la présentation orale n'est PAS une simple lecture de sa fiche_EXPO_Oeuvre.md et sera utilisé par votre professeure pour l'évaluation*
+
+*Introduction* :
+- [ ] Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
+- [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+
+*Développement* :
+- [ ] Présentation détaillée de l'oeuvre ou du dispositif multimédia (Décrire où elle est située dans l'exposition, comment on y accède, quels sont ses composantes et éléments)
+- [ ] Expérience vécue (Décrire votre expérience de l'oeuvre ou du dispositif, le parcours, la durée, les gestes à poser, etc)
+- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement + pourquoi)
+- [ ] **Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session** (ressemblances, différences ou intérêt spécifique)
+
+*Conclusion* :
+- [ ] Rappel des aspects présentés
+- [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+
+## CRITÈRES D'ÉVALUATION - GRILLES D'ÉVALUATION : voir fichier dans équipe TEAMS
+A) Banque inspiration
+- Exhaustivité des informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
+B) Présentation orale
+- Contextualisation de l'oeuvre ou du dispositif et de l'expérience
+- Description de l'oeuvre ou du dispositif et de l'expérience
+- Justification de l'appréciation
