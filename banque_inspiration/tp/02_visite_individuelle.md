@@ -3,7 +3,7 @@
 - **B) PRÉSENTATION ORALE (15%) Remise semaines 14-15** (selon horaire déterminé à la semaine 13)
 
 ## CONSIGNES DU TRAVAIL
-Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fiche_oeuvre.md)
+Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fiche_EXPO_oeuvre.md)
 
 
 ## OBJECTIFS POURSUIVIS
