@@ -23,7 +23,7 @@ Communication efficace de ses idées et de ses choix par la présentation orale 
 - [ ] Faire de courts vidéos
 - [ ] Poser des questions au personnel du musée ou de la galerie si nécessaire
 - [ ] Faire des recherches complémentaires
-- [ ] Créer un **dossier LIEU (de l'exposition) puis une fiche_EXPO_oeuvre** dans votre banque d'inspirations (répertoire V11_inspirations) pour cette visite, en respectant les étapes de création de dossiers et fichiers sous GitHub (incluant créer et compléter les README.md).  
+- [ ] Créer un **dossier LIEU (de l'exposition) puis une fiche_EXPO_oeuvre** dans votre banque d'inspirations (répertoire H26_V11_inspirations) pour cette visite, en respectant les étapes de création de dossiers et fichiers sous GitHub (incluant créer et compléter les README.md).  
 - [ ] Compléter la fiche de présentation de l'oeuvre ou du dispositif retenu, inclure les médias pertinents. **La présentation visuelle de la fiche doit être soignée et claire puisqu'elle sera le support visuel de votre présentation orale**.
   
 
