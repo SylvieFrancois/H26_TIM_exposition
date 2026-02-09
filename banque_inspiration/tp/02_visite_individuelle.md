@@ -32,10 +32,10 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 
 ### CE QUI EST ATTENDU
 **Une présentation orale de 5 à 7 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
-*Il n'y a donc pas de PowerPoint ou autre diaporama à réaliser. Votre support visuel sera votre fiche de présentation dans votre répertoire GitHub*
+*Il n'y a donc pas de PowerPoint ou autre diaporama à réaliser. Votre support visuel sera votre fiche de présentation dans votre répertoire GitHub.  Il vous sera possible si vous le souhaitez, de modifier votre fiche de présentation, après son évaluation (donc à partir de la semaine 10) en vue de préparer votre présentation orale.*
 
 ### PLAN DE LA PRÉSENTATION
-**Vous devrez, suite à la rétroaction de la professeure de votre fiche_EXPO_Oeuvre évaluée, faire un plan de votre présentation orale (plan_oral.md) qui intérera les commentaires reçus.  Ce plan de présentation sera intégré à votre banque d'inspirations, dans le dossier de votre visite individuelle. Il respectera la structure suivante**:
+**Vous devrez, suite à la rétroaction de la professeure de votre fiche_EXPO_oeuvre évaluée, faire un plan de votre présentation orale (plan_oral.md) qui prendra en considération les commentaires reçus.  Ce plan de présentation sera intégré à votre banque d'inspirations, dans le dossier de votre visite individuelle. Il respectera la structure suivante**:
 
 *Ce plan ne sera pas partagé à vos collègues. Il vous servira d'appui personnel lors de la présentation puisque la présentation orale n'est PAS une simple lecture de sa fiche_EXPO_Oeuvre.md et sera utilisé par votre professeure pour l'évaluation*
 
