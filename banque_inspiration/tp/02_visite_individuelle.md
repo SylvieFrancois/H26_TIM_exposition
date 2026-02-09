@@ -15,7 +15,7 @@ Communication efficace de ses idées et de ses choix par la présentation orale 
 - [ ] Se renseigner sur l'exposition et le lieu choisis (et réserver un billet si nécessaire)
 - [ ] Effectuer la visite de l'exposition entre le 19 février et le 6 mars 2026 et faire l'expérience et l'observation de **l'oeuvre ou du dispositif choisi**.
       SE RÉFÉRER À LA GRILLE DES INFORMATIONS À DOCUMENTER POUR LA BANQUE D'INSPIRATION (tp/grille_documentation.md)
-- [ ]     
+        
 - [ ] Observer, expérimenter, interagir avec (lorsque permis) l'oeuvre ou le dispositif multimédia que vous présenterez
 - [ ] Prendre des notes
 - [ ] Faire des photographies
@@ -24,7 +24,7 @@ Communication efficace de ses idées et de ses choix par la présentation orale 
 - [ ] Poser des questions au personnel du musée ou de la galerie si nécessaire
 - [ ] Faire des recherches complémentaires
 - [ ] Créer un **dossier LIEU (de l'exposition) puis une fiche_EXPO_oeuvre** dans votre banque d'inspirations (répertoire H26_V11_inspirations) pour cette visite, en respectant les étapes de création de dossiers et fichiers sous GitHub (incluant créer et compléter les README.md).  
-- [ ] Compléter la fiche de présentation de l'oeuvre ou du dispositif retenu, inclure les médias pertinents. **La présentation visuelle de la fiche doit être soignée et claire puisqu'elle sera le support visuel de votre présentation orale**.
+- [ ] Compléter la fiche de présentation de l'oeuvre ou du dispositif retenu, inclure les médias pertinents. **La présentation visuelle de la fiche doit être soignée et claire puisqu'elle sera le support visuel de votre présentation orale.**
   
 
 ## B) COMMUNICATION ORALE
