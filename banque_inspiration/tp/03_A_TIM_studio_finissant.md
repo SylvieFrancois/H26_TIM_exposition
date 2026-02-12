@@ -1,5 +1,6 @@
-# TRAVAIL 2: Exposition des étudiant.e.s. finissant.e.s en TIM
-## (Répertoire GitHub) 20% (REMISE semaine 9, fin du cours)
+# TRAVAIL 3: BANQUE INSPIRATION (Répertoire GitHub) (45%) - remise semaine 13 (fin du cours)
+
+# A)       EXPOSITION DES ÉTUDIANT.E.S FINISSANTS EN TIM
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
@@ -10,19 +11,19 @@
 ## MÉTHODE
 
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] au visionnement de la présentation de leurs projets en création dans l'exposition [Résonance](https://tim-montmorency.com/2025/#/)
+- [ ] au visionnement de la présentation de leurs projets en création dans l'exposition 
 
 - [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*)
-      [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/), [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#/), [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/), [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/), [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/), [Internature_GitHub](https://tprangers.github.io/internature/), [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)  
-- [ ] à la visite des studios en production (semaine 6) et lors de l'exposition finale (semaine 8)
+      
+- [ ] à la visite des studios en production (*mardi 24 février trou horaire* - semaine 6) et lors de l'exposition finale (*mardi 17 mars trou horaire* - semaine 8)
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
-### Créer deux fichiers.md qui nous permettront de découvrir ces projets en création:
-- ordonner les projets selon votre préférence (1 = votre projet préféré)
-- Pour votre **projet préféré, créer une fiche complète selon les consignes dans TP_tous_documentation.**
+### Créer deux (2) fichiers.md qui nous permettront de découvrir ces projets en création:
+a) fiche_EXPO_oeuvre_choise. md
+- Pour votre projet préféré, créer une fiche complète selon les consignes dans tp_grille_documentation.
 
-
-- Pour **les autres projets ordonnés selon votre préférences, créer une fiche qui les regroupera et indiquer:**
+b) fiche_EXPO_palmares.md
+- Pour **les autres projets à ordonner selon votre préférence, créer cette fiche qui les regroupera et indiquer les informations suivantes:**
 1. le titre de chacun des projets ainsi que ses créateurs et créatrices
 2. l'installation en cours (ou finale) dans les studios pour chacun des projets (photos à l'appui)
 3. le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets,selon leur documentation GitHub, en indiquant la source)
