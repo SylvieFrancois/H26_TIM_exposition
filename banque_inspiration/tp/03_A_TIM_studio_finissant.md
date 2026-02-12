@@ -26,7 +26,7 @@ a) fiche_EXPO_oeuvre_choise. md
 b) fiche_EXPO_palmares.md
 - Pour **les autres projets à ordonner selon votre préférence, créer cette fiche qui les regroupera**.
 - **Indiquer les informations suivantes pour chacun des projets:**
-- 
+ 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
 | No ordre de préférence || |
@@ -35,6 +35,8 @@ b) fiche_EXPO_palmares.md
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
 | Schéma de l'installation prévue| schéma de *plantation*|selon la documentation GitHub de l'équipe, en indiquant la source|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+
+
 
 En pensant à votre cheminement dans la formation en TIM
   **Indiquer les informations suivantes:**
