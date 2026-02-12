@@ -24,15 +24,23 @@ a) fiche_EXPO_oeuvre_choise. md
 - Pour votre projet préféré, créer une fiche complète selon les consignes dans tp_grille_documentation.
 
 b) fiche_EXPO_palmares.md
-- Pour **les autres projets à ordonner selon votre préférence, créer cette fiche qui les regroupera et indiquer les informations suivantes:**
-1. le titre de chacun des projets ainsi que ses créateurs et créatrices
-2. l'installation en cours (ou finale) dans les studios pour chacun des projets (photos à l'appui)
-3. le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets,selon leur documentation GitHub, en indiquant la source)
-4. noter ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)<BR>
+- Pour **les autres projets à ordonner selon votre préférence, créer cette fiche qui les regroupera**.
+- **Indiquer les informations suivantes pour chacun des projets:**
+|:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
+| ---     | ---             | --- |
+| No ordre de préférence || |
+| Titre du projet || |
+| Noms des créateurs et créatrices|| |
+| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
+| Schéma de l'installation prévue| schéma de *plantation*|selon leur documentation GitHub, en indiquant la source|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
-      *De plus, vous devrez* :<BR>
-5. identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))<BR>
-6. présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
+En pensant à votre cheminement dans la formation en TIM
+  **Indiquer les informations suivantes:**
+  |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
+  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) || |
+  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |photo ou croquis de la technique ou composante|Indiquer la source de l'information pour cette recherche |
+
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 <BR>
