@@ -14,7 +14,7 @@
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
 - [ ] au visionnement de la présentation de leurs projets en création pour l'exposition finale (titre à venir).
 
-- [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*): [Terminal_GitHub](https://pythons-5.github.io/Terminal/#/), [Voix_GitHub](https://l-optique.github.io/momo_modele-site-projet-etudiant_25-26/#/), [Mission_GitHub](https://o-i-g-n-o-n.github.io/Mission-decollage/#/), [Mosaique_GitHub](https://dfccl.github.io/lamosaiquedesvoix/#/), [Mammouths_GitHub](https://mammouths.github.io/projet/#/), [Yeux_GitHub](https://z-vision.github.io/Quand-Les-yeux-se-croisent/#/) 
+- [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*): [Terminal_GitHub](https://pythons-5.github.io/Terminal/#/), [Voix_GitHub](https://l-optique.github.io/momo_modele-site-projet-etudiant_25-26/#/), [Mission_GitHub](https://o-i-g-n-o-n.github.io/Mission-decollage/#/), [Mosaique_GitHub](https://dfccl.github.io/lamosaiquedesvoix/#/), [Mammouths_GitHub](https://mammouths.github.io/projet/#/), [Yeux_GitHub](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/) 
       
 - [ ] à la visite des studios en production (*mardi 24 février trou horaire* - semaine 6) et lors de l'exposition finale (*mardi 17 mars trou horaire* - semaine 8)
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
