@@ -20,7 +20,7 @@
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
 ### Créer deux (2) fichiers.md qui nous permettront de découvrir ces projets en création:
-a) fiche_EXPO_oeuvre_choise. md
+a) fiche_EXPO_oeuvre_choisie. md
 - Pour votre projet préféré, créer une fiche complète selon les consignes dans tp_grille_documentation.
 
 b) fiche_EXPO_palmares.md
@@ -33,7 +33,7 @@ b) fiche_EXPO_palmares.md
 | Titre du projet || |
 | Noms des créateurs et créatrices|| |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de *plantation*|selon la documentation GitHub de l'équipe, en indiquant la source|
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
