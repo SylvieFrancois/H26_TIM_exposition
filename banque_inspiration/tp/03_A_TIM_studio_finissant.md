@@ -1,4 +1,5 @@
-# TRAVAIL 3: BANQUE INSPIRATION (Répertoire GitHub) (45%) - remise semaine 13 (fin du cours)
+# TRAVAIL 3: BANQUE D'INSPIRATIONS
+(Répertoire GitHub) (45%) - remise semaine 13 (fin du cours)
 
 # A)       EXPOSITION DES ÉTUDIANT.E.S FINISSANTS EN TIM
 
