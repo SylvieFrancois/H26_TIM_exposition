@@ -1,7 +1,7 @@
 # TRAVAIL 3: BANQUE D'INSPIRATIONS
 (Répertoire GitHub) (45%) - remise semaine 13 (fin du cours)
 
-# A)       EXPOSITION DES ÉTUDIANT.E.S FINISSANTS EN TIM
+# A)       EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN TIM
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
