@@ -26,6 +26,7 @@ a) fiche_EXPO_oeuvre_choise. md
 b) fiche_EXPO_palmares.md
 - Pour **les autres projets à ordonner selon votre préférence, créer cette fiche qui les regroupera**.
 - **Indiquer les informations suivantes pour chacun des projets:**
+- 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
 | No ordre de préférence || |
