@@ -39,6 +39,7 @@ b) fiche_EXPO_palmares.md
 
 
 En pensant à votre cheminement dans la formation en TIM
+
   **Indiquer les informations suivantes:**
   
   |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
