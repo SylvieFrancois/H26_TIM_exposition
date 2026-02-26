@@ -1,7 +1,7 @@
 # VOCABULAIRE MUSÉOLOGIQUE
 (des ajouts seront faits au cours de la session)
 
-**Voir document H26_TIM_vocabulaire.pdf dans le Teams de classe pour les images correspondantes.**
+**Voir document H26_TIM_exposition_vocabulaire.pdf dans le Teams de classe pour les images correspondantes.**
 
 cartel
 
