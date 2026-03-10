@@ -12,7 +12,7 @@
 ## MÉTHODE
 
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] au visionnement de la présentation de leurs projets en création pour l'exposition finale (titre à venir).
+- [ ] au visionnement de la présentation de leurs projets en création pour l'exposition finale Réseau final[Réseau final](https://tim-montmorency.com/2026/).
 
 - [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*): [Terminal_GitHub](https://pythons-5.github.io/Terminal/#/), [Mission_GitHub](https://o-i-g-n-o-n.github.io/Mission-decollage/#/), [Symbiose_GitHub](https://les-chimistes.github.io/symbiose/#/), [Arbre_en_face_GitHub](https://mammouths.github.io/projet/#/), [Quand_les_yeux_GitHub](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/) [Ocean_rouge_GitHub](https://deux-intelligence.github.io/deux-neurones/).
       
