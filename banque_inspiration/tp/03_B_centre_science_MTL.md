@@ -23,7 +23,7 @@
 - [ ] Créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom du dispositif)     
 - [ ] Réaliser sa fiche de documentation sur GitHub.
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
+## CRITÈRES D'ÉVALUATION : voir grille d'évaluation détaillée dans l'équipe TEAMS du cours (dossier tp)
 - Exhaustivité des informations répertoriées (selon la grille_documentation)
 - Organisation des données
 - Présentation de l'information
