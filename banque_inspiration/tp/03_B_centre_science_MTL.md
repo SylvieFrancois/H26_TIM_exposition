@@ -3,8 +3,7 @@
 
 # B)       EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
 
- Dans votre *repository*, créer le **dossier** du LIEU visité, puis l'arborescence de ses fichiers et sous-dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
- Créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom du dispositif)
+ 
  
 ## OBJECTIFS POURSUIVIS
 - [ ] Effectuer la recherche documentaire: Type d'information à rechercher, méthodes de collecte, collecte de l'information, pertinence et qualité des sources.
@@ -20,6 +19,8 @@
 - [ ] Faire de courts vidéos (si permis).
 - [ ] Poser des questions à la professeure et/ou à la médiatrice lors de la visite.
 - [ ] **Consulter la fiche banque_inspiration/grille_documentation.md pour la méthode de documentation et de rédaction des contenus détaillées pour la fiche_oeuvre**.
+- [ ] Dans votre *repository*, créer le **dossier** du LIEU visité, puis l'arborescence de ses fichiers et sous-dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
+- [ ] Créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom du dispositif)     
 - [ ] Réaliser sa fiche de documentation sur GitHub.
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
