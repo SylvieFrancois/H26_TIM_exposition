@@ -19,6 +19,9 @@
 - [ ] à la visite des studios en production (*mardi 24 février trou horaire* - semaine 6) et lors de l'exposition finale (*mardi 17 mars trou horaire* - semaine 8)
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
+Dans votre *repository*, créer le **dossier** du LIEU visité, puis l'arborescence de ses fichiers et sous-dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
+ Créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom du dispositif)      
+
 ### Créer deux (2) fichiers.md qui nous permettront de découvrir ces projets en création:
 a) fiche_EXPO_oeuvre_choisie. md
 - Pour votre projet préféré, créer une fiche complète selon les consignes dans tp_grille_documentation.
