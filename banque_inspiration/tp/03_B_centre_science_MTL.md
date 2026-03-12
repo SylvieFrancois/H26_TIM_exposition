@@ -3,7 +3,6 @@
 
 # B)       EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
 
-# LA BANQUE D'INSPIRATIONS
  Dans votre *repository*, créer le **dossier** du LIEU visité, puis l'arborescence de ses fichiers et sous-dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
  Créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom du dispositif)
  
