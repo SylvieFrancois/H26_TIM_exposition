@@ -1,6 +1,7 @@
-# TRAVAIL 3B: VISITE ET EXPÉRIENCE D'UNE EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
+# # TRAVAIL 3: BANQUE D'INSPIRATIONS
+(Répertoire GitHub) (45%) - remise semaine 13 (fin du cours via Devoir Teams)
 
-## (Répertoire GitHub) (REMISE semaine 13 via Devoir Teams)
+# B)       EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
 
 # LA BANQUE D'INSPIRATIONS
  Dans votre *repository*, créer le **dossier** du LIEU visité, puis l'arborescence de ses fichiers et sous-dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
