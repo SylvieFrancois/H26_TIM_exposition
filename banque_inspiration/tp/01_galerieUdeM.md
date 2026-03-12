@@ -23,7 +23,7 @@
 - [ ] **Consulter la fiche banque_inspiration/grille_documentation.md pour la méthode de documentation et de rédaction des contenus détaillées pour la fiche_oeuvre**.
 - [ ] Réaliser sa fiche de documentation sur GitHub.
 
-## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours (dossier consignes_travaux)
+## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir grille d'évaluation détaillées dans l'équipe TEAMS du cours
 - Exhaustivité des informations répertoriées (selon la grille_documentation)
 - Organisation des données
 - Présentation de l'information
