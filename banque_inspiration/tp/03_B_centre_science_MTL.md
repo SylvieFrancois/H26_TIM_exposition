@@ -1,4 +1,4 @@
-# # TRAVAIL 3: BANQUE D'INSPIRATIONS
+#  TRAVAIL 3: BANQUE D'INSPIRATIONS
 (Répertoire GitHub) (45%) - remise semaine 13 (fin du cours via Devoir Teams)
 
 # B)       EXPOSITION AU CENTRE DES SCIENCES DE MONTRÉAL
