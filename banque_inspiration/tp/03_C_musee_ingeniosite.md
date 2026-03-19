@@ -4,7 +4,7 @@
 
 # C)      MUSÉE DE L'INGÉNIOSITÉ J.ARMAND-BOMBARDIER - CONFÉRENCE
 
-### Martin Boucher, Technicien multimédia, [Musée de l'ingéniosité J.Armand-Bombardier] (https://museebombardier.com/) 
+### Martin Boucher, Technicien multimédia, [Musée de l'ingéniosité J.Armand-Bombardier](https://museebombardier.com/) 
 
 Martin Boucher vous présentera le contexte de réalisation, de mise en exposition et de fonctionnement de dispositifs multimédias crées pour les salles de l'exposition permanente du musée situé à Valcourt, sur le lieu d'origine de la compagnie Bombardier.  
 
