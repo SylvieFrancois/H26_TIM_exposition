@@ -2,7 +2,7 @@
 #  TRAVAIL 3: BANQUE D'INSPIRATIONS
 (Répertoire GitHub) (45%) - remise semaine 13 (fin du cours via Devoir Teams)
 
-# C)      MUSÉE DE L'INGÉNIOSITÉ J.ARMAND-BOMBARDIER - CONFÉRENCE
+# C)      MUSÉE DE L'INGÉNIOSITÉ - CONFÉRENCE
 
 ### Martin Boucher, Technicien multimédia, [Musée de l'ingéniosité J.Armand-Bombardier](https://museebombardier.com/) 
 
