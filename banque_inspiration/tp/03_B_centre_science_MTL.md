@@ -11,7 +11,7 @@
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
       
 ## MÉTHODE 
-- [ ] Visiter en groupe l'exposition temporaire [*Nanualuk - Expédition nordique*](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique), ainsi que l'exposition permanente [*La science en grand*](https://www.centredessciencesdemontreal.com/exposition-permanente/explore) du Centre des sciences  lors du cours de la semaine 10
+- [ ] Visiter en groupe les expositions permanentes [*Nanualuk - Expédition nordique*](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique), [*La science en grand*](https://www.centredessciencesdemontreal.com/exposition-permanente/explore) du Centre des sciences  lors du cours de la semaine 10
 - [ ] Observer et expérimenter l'ensemble des dispositifs présents et en choisir **UN** à documenter dans votre fiche. 
 - [ ] Prendre des notes.
 - [ ] Faire des photographies.
